@@ -5,3 +5,11 @@ Arguments For Pineapple on Pizza:
     Texture Variety: Pineapple provides a juicy and refreshing texture contrast.
     Nutritional Benefits: Pineapple is rich in vitamins and antioxidants.
     Popular Choice: Hawaiian pizza is a favorite for many people around the world.
+
+Arguments Against Pineapple on Pizza:
+
+    Traditionalists' View: Many believe pizza should stick to traditional Italian ingredients.
+    Texture Clash: Some find the juicy texture of pineapple clashes with the crispy crust.
+    Sweetness: The sweetness can be overpowering for those who prefer savory flavors.
+    Temperature: Pineapple can become mushy when baked, altering its appeal.
+    Flavor Mismatch: Some argue that the tropical flavor doesn't blend well with pizza.
